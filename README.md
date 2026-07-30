@@ -42,6 +42,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Cookiecutter Django](https://github.com/cookiecutter/cookiecutter-django) – Full-featured production-ready Django project template.
 - [Django Starter Template](https://github.com/wsvincent/django-starter-template)
 - [Django REST Boilerplate](https://github.com/encode/django-rest-framework) – DRF-based starter setups.
+- [seedkit](https://github.com/viewflow/seedkit) – Claude Code agent skill that scaffolds a Django project from a prompt, wiring auth, APIs, deploy, and CI.
 
 ## Admin Enhancements
 
