@@ -1,4 +1,4 @@
-# Awesome Django [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Django [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1113476950.svg)](https://doi.org/10.5281/zenodo.19673282)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -139,10 +139,10 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- [Awesome Python](https://github.com/awesomelistsio/awesome-python)
-- [Awesome Web Development](https://github.com/awesomelistsio/awesome-web-development)
-- [Awesome APIs](https://github.com/awesomelistsio/awesome-apis)
-- [Awesome Backend Development](https://github.com/awesomelistsio/awesome-backend)
+- [Awesome Python](https://github.com/brandonhimpfen/awesome-python)
+- [Awesome Web Development](https://github.com/brandonhimpfen/awesome-web-development)
+- [Awesome APIs](https://github.com/brandonhimpfen/awesome-apis)
+- [Awesome Backend Development](https://github.com/brandonhimpfen/awesome-backend)
 
 ## Contribute
 
